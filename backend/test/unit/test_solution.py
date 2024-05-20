@@ -12,7 +12,7 @@ from src.controllers.recipecontroller import RecipeController
 		(True, {}, None, None),
 		(True, { "r1": 0, "r2": 1 }, None, "r2"),
 		(False, {}, None, None),
-		(False, { "r1": 0, "r2": 1 }, 0, "r1")
+		(False, { "r1": 0, "r2": 1 }, 1, "r1")
 	]
 )
 
